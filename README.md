@@ -1093,7 +1093,7 @@ raw_index = nntp_raw
 enriched_index =  nntp_enriched
 ```
 #### pagure [&uarr;](#supported-data-sources-)
-Issues from Pagure repositories
+Issues from Pagure repositories(inside/outside namespace).
 
 - projects.json
 ```
